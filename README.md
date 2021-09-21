@@ -1,4 +1,4 @@
-qESP IOT Dev Kit HW info
+qESP32 WiFi and Bluetooth ESP32 IOT Board HW info
 ------------------------------
 
 ![qESP32 WiFi and Bluetooth ESP32 IOT Board](https://cdn.shopify.com/s/files/1/0269/3100/3464/products/iotbotscom-qesp32-iot-arduino-wifi-esp32_1024x1024@2x.jpg)
